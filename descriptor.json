@@ -2,7 +2,7 @@
   "name": "Get Staff",
   "type": "flogo:activity",
   "version": "0.0.1",
-  "title": "A1: Get Staff",
+  "title": "A2: Get Staff",
   "description": "Returns Array of Staff",
   "homepage": "https://github.com/AiRISTAFlowInc/FlowActivities/tree/main/GetStaff",
   "input": [
